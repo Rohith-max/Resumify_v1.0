@@ -8,6 +8,7 @@ An AI-powered tool to improve and tailor resumes for job applications. Upload yo
 - **Resume Tailoring**: Customize your resume for specific job postings.
 - **Dark/Light Mode**: Toggle between dark and light themes.
 - **Text Animation**: View AI-generated results with a slick typing animation.
+- **TXT File Support**: Simplified file handling with .txt files only.
 
 ## Installation
 
